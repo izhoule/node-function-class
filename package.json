@@ -29,7 +29,6 @@
   "homepage": "https://github.com/TooTallNate/node-function-class#readme",
   "dependencies": {
     "es6-symbol": "^3.0.2",
-    "function-name": "^1.0.0",
     "setprototypeof": "^1.0.0"
   }
 }
